@@ -1,0 +1,361 @@
+﻿event_name,round,match,team,category,judges_category_averages,judges_match_averages
+New York,1,1,GRV,Choreography Complexity,8.67,86.84
+New York,1,1,GRV,Cleanliness,8.17,86.84
+New York,1,1,GRV,Creativity,8.50,86.84
+New York,1,1,GRV,Musicality,8.83,86.84
+New York,1,1,GRV,Projection/Communication,9.00,86.84
+New York,1,1,GRV,Spacing,8.67,86.84
+New York,1,1,GRV,Staging,8.50,86.84
+New York,1,1,GRV,Stamina,9.33,86.84
+New York,1,1,GRV,Stylistic Athleticism,8.50,86.84
+New York,1,1,GRV,Technical Execution + Authenticity,8.67,86.84
+New York,1,1,QUICK STYLE,Choreography Complexity,8.83,89.00
+New York,1,1,QUICK STYLE,Cleanliness,9.00,89.00
+New York,1,1,QUICK STYLE,Creativity,9.17,89.00
+New York,1,1,QUICK STYLE,Musicality,9.33,89.00
+New York,1,1,QUICK STYLE,Projection/Communication,9.33,89.00
+New York,1,1,QUICK STYLE,Spacing,8.50,89.00
+New York,1,1,QUICK STYLE,Staging,8.67,89.00
+New York,1,1,QUICK STYLE,Stamina,9.00,89.00
+New York,1,1,QUICK STYLE,Stylistic Athleticism,8.17,89.00
+New York,1,1,QUICK STYLE,Technical Execution + Authenticity,9.00,89.00
+New York,1,2,1MILLION,Choreography Complexity,8.67,87.33
+New York,1,2,1MILLION,Cleanliness,8.33,87.33
+New York,1,2,1MILLION,Creativity,8.33,87.33
+New York,1,2,1MILLION,Musicality,8.50,87.33
+New York,1,2,1MILLION,Projection/Communication,9.00,87.33
+New York,1,2,1MILLION,Spacing,8.67,87.33
+New York,1,2,1MILLION,Staging,8.83,87.33
+New York,1,2,1MILLION,Stamina,9.50,87.33
+New York,1,2,1MILLION,Stylistic Athleticism,8.67,87.33
+New York,1,2,1MILLION,Technical Execution + Authenticity,8.83,87.33
+New York,1,2,BROTHERHOOD,Choreography Complexity,9.67,94.01
+New York,1,2,BROTHERHOOD,Cleanliness,9.33,94.01
+New York,1,2,BROTHERHOOD,Creativity,9.67,94.01
+New York,1,2,BROTHERHOOD,Musicality,9.50,94.01
+New York,1,2,BROTHERHOOD,Projection/Communication,9.33,94.01
+New York,1,2,BROTHERHOOD,Spacing,8.83,94.01
+New York,1,2,BROTHERHOOD,Staging,9.67,94.01
+New York,1,2,BROTHERHOOD,Stamina,9.67,94.01
+New York,1,2,BROTHERHOOD,Stylistic Athleticism,9.17,94.01
+New York,1,2,BROTHERHOOD,Technical Execution + Authenticity,9.17,94.01
+New York,1,3,JAM REPUBLIC,Choreography Complexity,8.00,82.49
+New York,1,3,JAM REPUBLIC,Cleanliness,7.83,82.49
+New York,1,3,JAM REPUBLIC,Creativity,8.00,82.49
+New York,1,3,JAM REPUBLIC,Musicality,8.50,82.49
+New York,1,3,JAM REPUBLIC,Projection/Communication,8.17,82.49
+New York,1,3,JAM REPUBLIC,Spacing,8.00,82.49
+New York,1,3,JAM REPUBLIC,Staging,8.33,82.49
+New York,1,3,JAM REPUBLIC,Stamina,9.33,82.49
+New York,1,3,JAM REPUBLIC,Stylistic Athleticism,8.50,82.49
+New York,1,3,JAM REPUBLIC,Technical Execution + Authenticity,7.83,82.49
+New York,1,3,ROYAL FAMILY,Choreography Complexity,8.50,86.67
+New York,1,3,ROYAL FAMILY,Cleanliness,8.33,86.67
+New York,1,3,ROYAL FAMILY,Creativity,7.83,86.67
+New York,1,3,ROYAL FAMILY,Musicality,8.50,86.67
+New York,1,3,ROYAL FAMILY,Projection/Communication,9.00,86.67
+New York,1,3,ROYAL FAMILY,Spacing,8.67,86.67
+New York,1,3,ROYAL FAMILY,Staging,9.00,86.67
+New York,1,3,ROYAL FAMILY,Stamina,9.50,86.67
+New York,1,3,ROYAL FAMILY,Stylistic Athleticism,8.67,86.67
+New York,1,3,ROYAL FAMILY,Technical Execution + Authenticity,8.67,86.67
+New York,2,1,BROTHERHOOD,Choreography Complexity,10.00,98.50
+New York,2,1,BROTHERHOOD,Cleanliness,10.00,98.50
+New York,2,1,BROTHERHOOD,Creativity,10.00,98.50
+New York,2,1,BROTHERHOOD,Musicality,10.00,98.50
+New York,2,1,BROTHERHOOD,Projection/Communication,10.00,98.50
+New York,2,1,BROTHERHOOD,Spacing,9.17,98.50
+New York,2,1,BROTHERHOOD,Staging,9.83,98.50
+New York,2,1,BROTHERHOOD,Stamina,10.00,98.50
+New York,2,1,BROTHERHOOD,Stylistic Athleticism,10.00,98.50
+New York,2,1,BROTHERHOOD,Technical Execution + Authenticity,9.50,98.50
+New York,2,1,QUICK STYLE,Choreography Complexity,9.33,89.83
+New York,2,1,QUICK STYLE,Cleanliness,8.50,89.83
+New York,2,1,QUICK STYLE,Creativity,9.00,89.83
+New York,2,1,QUICK STYLE,Musicality,9.17,89.83
+New York,2,1,QUICK STYLE,Projection/Communication,9.33,89.83
+New York,2,1,QUICK STYLE,Spacing,8.67,89.83
+New York,2,1,QUICK STYLE,Staging,9.00,89.83
+New York,2,1,QUICK STYLE,Stamina,9.33,89.83
+New York,2,1,QUICK STYLE,Stylistic Athleticism,8.50,89.83
+New York,2,1,QUICK STYLE,Technical Execution + Authenticity,9.00,89.83
+New York,2,1,ROYAL FAMILY,Choreography Complexity,8.67,86.16
+New York,2,1,ROYAL FAMILY,Cleanliness,8.50,86.16
+New York,2,1,ROYAL FAMILY,Creativity,8.17,86.16
+New York,2,1,ROYAL FAMILY,Musicality,8.33,86.16
+New York,2,1,ROYAL FAMILY,Projection/Communication,8.83,86.16
+New York,2,1,ROYAL FAMILY,Spacing,8.83,86.16
+New York,2,1,ROYAL FAMILY,Staging,8.83,86.16
+New York,2,1,ROYAL FAMILY,Stamina,9.33,86.16
+New York,2,1,ROYAL FAMILY,Stylistic Athleticism,8.50,86.16
+New York,2,1,ROYAL FAMILY,Technical Execution + Authenticity,8.17,86.16
+Seoul,1,1,GRV,Choreography Complexity,8.50,84.08
+Seoul,1,1,GRV,Cleanliness,8.50,84.08
+Seoul,1,1,GRV,Creativity,7.83,84.08
+Seoul,1,1,GRV,Musicality,8.75,84.08
+Seoul,1,1,GRV,Projection/Communication,8.67,84.08
+Seoul,1,1,GRV,Spacing,8.50,84.08
+Seoul,1,1,GRV,Staging,8.17,84.08
+Seoul,1,1,GRV,Stamina,8.75,84.08
+Seoul,1,1,GRV,Stylistic Athleticism,8.33,84.08
+Seoul,1,1,GRV,Technical Execution + Authenticity,8.08,84.08
+Seoul,1,1,ROYAL FAMILY,Choreography Complexity,8.67,87.83
+Seoul,1,1,ROYAL FAMILY,Cleanliness,8.83,87.83
+Seoul,1,1,ROYAL FAMILY,Creativity,8.50,87.83
+Seoul,1,1,ROYAL FAMILY,Musicality,8.75,87.83
+Seoul,1,1,ROYAL FAMILY,Projection/Communication,9.08,87.83
+Seoul,1,1,ROYAL FAMILY,Spacing,8.50,87.83
+Seoul,1,1,ROYAL FAMILY,Staging,8.67,87.83
+Seoul,1,1,ROYAL FAMILY,Stamina,9.50,87.83
+Seoul,1,1,ROYAL FAMILY,Stylistic Athleticism,8.75,87.83
+Seoul,1,1,ROYAL FAMILY,Technical Execution + Authenticity,8.58,87.83
+Seoul,1,2,BROTHERHOOD,Choreography Complexity,8.83,87.82
+Seoul,1,2,BROTHERHOOD,Cleanliness,8.92,87.82
+Seoul,1,2,BROTHERHOOD,Creativity,8.42,87.82
+Seoul,1,2,BROTHERHOOD,Musicality,8.75,87.82
+Seoul,1,2,BROTHERHOOD,Projection/Communication,9.25,87.82
+Seoul,1,2,BROTHERHOOD,Spacing,8.58,87.82
+Seoul,1,2,BROTHERHOOD,Staging,8.83,87.82
+Seoul,1,2,BROTHERHOOD,Stamina,9.33,87.82
+Seoul,1,2,BROTHERHOOD,Stylistic Athleticism,8.58,87.82
+Seoul,1,2,BROTHERHOOD,Technical Execution + Authenticity,8.33,87.82
+Seoul,1,2,QUICK STYLE,Choreography Complexity,8.50,84.83
+Seoul,1,2,QUICK STYLE,Cleanliness,7.83,84.83
+Seoul,1,2,QUICK STYLE,Creativity,8.50,84.83
+Seoul,1,2,QUICK STYLE,Musicality,8.75,84.83
+Seoul,1,2,QUICK STYLE,Projection/Communication,9.17,84.83
+Seoul,1,2,QUICK STYLE,Spacing,8.25,84.83
+Seoul,1,2,QUICK STYLE,Staging,8.42,84.83
+Seoul,1,2,QUICK STYLE,Stamina,9.08,84.83
+Seoul,1,2,QUICK STYLE,Stylistic Athleticism,7.83,84.83
+Seoul,1,2,QUICK STYLE,Technical Execution + Authenticity,8.50,84.83
+Seoul,1,3,1MILLION,Choreography Complexity,8.50,88.25
+Seoul,1,3,1MILLION,Cleanliness,8.75,88.25
+Seoul,1,3,1MILLION,Creativity,8.75,88.25
+Seoul,1,3,1MILLION,Musicality,8.50,88.25
+Seoul,1,3,1MILLION,Projection/Communication,9.17,88.25
+Seoul,1,3,1MILLION,Spacing,8.83,88.25
+Seoul,1,3,1MILLION,Staging,9.08,88.25
+Seoul,1,3,1MILLION,Stamina,9.42,88.25
+Seoul,1,3,1MILLION,Stylistic Athleticism,8.50,88.25
+Seoul,1,3,1MILLION,Technical Execution + Authenticity,8.75,88.25
+Seoul,1,3,JAM REPUBLIC,Choreography Complexity,8.83,85.57
+Seoul,1,3,JAM REPUBLIC,Cleanliness,8.58,85.57
+Seoul,1,3,JAM REPUBLIC,Creativity,8.08,85.57
+Seoul,1,3,JAM REPUBLIC,Musicality,8.83,85.57
+Seoul,1,3,JAM REPUBLIC,Projection/Communication,8.67,85.57
+Seoul,1,3,JAM REPUBLIC,Spacing,8.33,85.57
+Seoul,1,3,JAM REPUBLIC,Staging,8.50,85.57
+Seoul,1,3,JAM REPUBLIC,Stamina,9.08,85.57
+Seoul,1,3,JAM REPUBLIC,Stylistic Athleticism,8.17,85.57
+Seoul,1,3,JAM REPUBLIC,Technical Execution + Authenticity,8.50,85.57
+Seoul,2,1,1MILLION,Choreography Complexity,8.58,89.59
+Seoul,2,1,1MILLION,Cleanliness,8.67,89.59
+Seoul,2,1,1MILLION,Creativity,9.00,89.59
+Seoul,2,1,1MILLION,Musicality,8.67,89.59
+Seoul,2,1,1MILLION,Projection/Communication,9.25,89.59
+Seoul,2,1,1MILLION,Spacing,8.92,89.59
+Seoul,2,1,1MILLION,Staging,9.33,89.59
+Seoul,2,1,1MILLION,Stamina,9.42,89.59
+Seoul,2,1,1MILLION,Stylistic Athleticism,8.92,89.59
+Seoul,2,1,1MILLION,Technical Execution + Authenticity,8.83,89.59
+Seoul,2,1,BROTHERHOOD,Choreography Complexity,9.25,91.58
+Seoul,2,1,BROTHERHOOD,Cleanliness,9.33,91.58
+Seoul,2,1,BROTHERHOOD,Creativity,9.08,91.58
+Seoul,2,1,BROTHERHOOD,Musicality,9.25,91.58
+Seoul,2,1,BROTHERHOOD,Projection/Communication,9.25,91.58
+Seoul,2,1,BROTHERHOOD,Spacing,9.08,91.58
+Seoul,2,1,BROTHERHOOD,Staging,9.17,91.58
+Seoul,2,1,BROTHERHOOD,Stamina,9.58,91.58
+Seoul,2,1,BROTHERHOOD,Stylistic Athleticism,8.67,91.58
+Seoul,2,1,BROTHERHOOD,Technical Execution + Authenticity,8.92,91.58
+Seoul,2,1,ROYAL FAMILY,Choreography Complexity,8.50,87.84
+Seoul,2,1,ROYAL FAMILY,Cleanliness,8.92,87.84
+Seoul,2,1,ROYAL FAMILY,Creativity,8.67,87.84
+Seoul,2,1,ROYAL FAMILY,Musicality,8.58,87.84
+Seoul,2,1,ROYAL FAMILY,Projection/Communication,9.00,87.84
+Seoul,2,1,ROYAL FAMILY,Spacing,8.92,87.84
+Seoul,2,1,ROYAL FAMILY,Staging,9.00,87.84
+Seoul,2,1,ROYAL FAMILY,Stamina,9.25,87.84
+Seoul,2,1,ROYAL FAMILY,Stylistic Athleticism,8.33,87.84
+Seoul,2,1,ROYAL FAMILY,Technical Execution + Authenticity,8.67,87.84
+Sydney,1,1,GRV,Choreography Complexity,9.00,88.83
+Sydney,1,1,GRV,Cleanliness,8.67,88.83
+Sydney,1,1,GRV,Creativity,8.50,88.83
+Sydney,1,1,GRV,Musicality,8.50,88.83
+Sydney,1,1,GRV,Projection/Communication,9.33,88.83
+Sydney,1,1,GRV,Spacing,8.50,88.83
+Sydney,1,1,GRV,Staging,8.67,88.83
+Sydney,1,1,GRV,Stamina,10.00,88.83
+Sydney,1,1,GRV,Stylistic Athleticism,8.83,88.83
+Sydney,1,1,GRV,Technical Execution + Authenticity,8.83,88.83
+Sydney,1,1,JAM REPUBLIC,Choreography Complexity,7.17,81.00
+Sydney,1,1,JAM REPUBLIC,Cleanliness,8.00,81.00
+Sydney,1,1,JAM REPUBLIC,Creativity,8.00,81.00
+Sydney,1,1,JAM REPUBLIC,Musicality,8.33,81.00
+Sydney,1,1,JAM REPUBLIC,Projection/Communication,8.50,81.00
+Sydney,1,1,JAM REPUBLIC,Spacing,8.33,81.00
+Sydney,1,1,JAM REPUBLIC,Staging,8.00,81.00
+Sydney,1,1,JAM REPUBLIC,Stamina,9.17,81.00
+Sydney,1,1,JAM REPUBLIC,Stylistic Athleticism,7.83,81.00
+Sydney,1,1,JAM REPUBLIC,Technical Execution + Authenticity,7.67,81.00
+Sydney,1,2,1MILLION,Choreography Complexity,7.67,86.01
+Sydney,1,2,1MILLION,Cleanliness,8.00,86.01
+Sydney,1,2,1MILLION,Creativity,9.00,86.01
+Sydney,1,2,1MILLION,Musicality,8.17,86.01
+Sydney,1,2,1MILLION,Projection/Communication,9.67,86.01
+Sydney,1,2,1MILLION,Spacing,8.50,86.01
+Sydney,1,2,1MILLION,Staging,8.67,86.01
+Sydney,1,2,1MILLION,Stamina,9.50,86.01
+Sydney,1,2,1MILLION,Stylistic Athleticism,8.50,86.01
+Sydney,1,2,1MILLION,Technical Execution + Authenticity,8.33,86.01
+Sydney,1,2,QUICK STYLE,Choreography Complexity,8.00,82.01
+Sydney,1,2,QUICK STYLE,Cleanliness,7.00,82.01
+Sydney,1,2,QUICK STYLE,Creativity,8.17,82.01
+Sydney,1,2,QUICK STYLE,Musicality,8.33,82.01
+Sydney,1,2,QUICK STYLE,Projection/Communication,8.67,82.01
+Sydney,1,2,QUICK STYLE,Spacing,8.17,82.01
+Sydney,1,2,QUICK STYLE,Staging,8.33,82.01
+Sydney,1,2,QUICK STYLE,Stamina,9.00,82.01
+Sydney,1,2,QUICK STYLE,Stylistic Athleticism,8.17,82.01
+Sydney,1,2,QUICK STYLE,Technical Execution + Authenticity,8.17,82.01
+Sydney,1,3,BROTHERHOOD,Choreography Complexity,8.83,92.17
+Sydney,1,3,BROTHERHOOD,Cleanliness,9.00,92.17
+Sydney,1,3,BROTHERHOOD,Creativity,9.67,92.17
+Sydney,1,3,BROTHERHOOD,Musicality,9.50,92.17
+Sydney,1,3,BROTHERHOOD,Projection/Communication,9.83,92.17
+Sydney,1,3,BROTHERHOOD,Spacing,8.50,92.17
+Sydney,1,3,BROTHERHOOD,Staging,9.17,92.17
+Sydney,1,3,BROTHERHOOD,Stamina,9.67,92.17
+Sydney,1,3,BROTHERHOOD,Stylistic Athleticism,9.17,92.17
+Sydney,1,3,BROTHERHOOD,Technical Execution + Authenticity,8.83,92.17
+Sydney,1,3,ROYAL FAMILY,Choreography Complexity,8.33,88.17
+Sydney,1,3,ROYAL FAMILY,Cleanliness,8.50,88.17
+Sydney,1,3,ROYAL FAMILY,Creativity,8.67,88.17
+Sydney,1,3,ROYAL FAMILY,Musicality,8.83,88.17
+Sydney,1,3,ROYAL FAMILY,Projection/Communication,9.67,88.17
+Sydney,1,3,ROYAL FAMILY,Spacing,8.67,88.17
+Sydney,1,3,ROYAL FAMILY,Staging,8.67,88.17
+Sydney,1,3,ROYAL FAMILY,Stamina,9.83,88.17
+Sydney,1,3,ROYAL FAMILY,Stylistic Athleticism,8.83,88.17
+Sydney,1,3,ROYAL FAMILY,Technical Execution + Authenticity,8.17,88.17
+Sydney,2,1,1MILLION,Choreography Complexity,8.33,89.16
+Sydney,2,1,1MILLION,Cleanliness,8.17,89.16
+Sydney,2,1,1MILLION,Creativity,8.83,89.16
+Sydney,2,1,1MILLION,Musicality,8.67,89.16
+Sydney,2,1,1MILLION,Projection/Communication,9.67,89.16
+Sydney,2,1,1MILLION,Spacing,8.83,89.16
+Sydney,2,1,1MILLION,Staging,8.83,89.16
+Sydney,2,1,1MILLION,Stamina,10.00,89.16
+Sydney,2,1,1MILLION,Stylistic Athleticism,8.83,89.16
+Sydney,2,1,1MILLION,Technical Execution + Authenticity,9.00,89.16
+Sydney,2,1,BROTHERHOOD,Choreography Complexity,9.00,92.51
+Sydney,2,1,BROTHERHOOD,Cleanliness,9.17,92.51
+Sydney,2,1,BROTHERHOOD,Creativity,9.00,92.51
+Sydney,2,1,BROTHERHOOD,Musicality,9.17,92.51
+Sydney,2,1,BROTHERHOOD,Projection/Communication,9.83,92.51
+Sydney,2,1,BROTHERHOOD,Spacing,9.00,92.51
+Sydney,2,1,BROTHERHOOD,Staging,9.17,92.51
+Sydney,2,1,BROTHERHOOD,Stamina,10.00,92.51
+Sydney,2,1,BROTHERHOOD,Stylistic Athleticism,9.17,92.51
+Sydney,2,1,BROTHERHOOD,Technical Execution + Authenticity,9.00,92.51
+Sydney,2,1,GRV,Choreography Complexity,9.33,90.65
+Sydney,2,1,GRV,Cleanliness,8.83,90.65
+Sydney,2,1,GRV,Creativity,8.67,90.65
+Sydney,2,1,GRV,Musicality,9.33,90.65
+Sydney,2,1,GRV,Projection/Communication,9.33,90.65
+Sydney,2,1,GRV,Spacing,8.50,90.65
+Sydney,2,1,GRV,Staging,8.83,90.65
+Sydney,2,1,GRV,Stamina,9.83,90.65
+Sydney,2,1,GRV,Stylistic Athleticism,9.17,90.65
+Sydney,2,1,GRV,Technical Execution + Authenticity,8.83,90.65
+Vancouver,1,1,1MILLION,Choreography Complexity,8.33,87.00
+Vancouver,1,1,1MILLION,Cleanliness,8.33,87.00
+Vancouver,1,1,1MILLION,Creativity,8.50,87.00
+Vancouver,1,1,1MILLION,Musicality,8.67,87.00
+Vancouver,1,1,1MILLION,Projection/Communication,9.17,87.00
+Vancouver,1,1,1MILLION,Spacing,8.67,87.00
+Vancouver,1,1,1MILLION,Staging,8.50,87.00
+Vancouver,1,1,1MILLION,Stamina,9.50,87.00
+Vancouver,1,1,1MILLION,Stylistic Athleticism,8.50,87.00
+Vancouver,1,1,1MILLION,Technical Execution + Authenticity,8.83,87.00
+Vancouver,1,1,ROYAL FAMILY,Choreography Complexity,8.00,85.84
+Vancouver,1,1,ROYAL FAMILY,Cleanliness,9.17,85.84
+Vancouver,1,1,ROYAL FAMILY,Creativity,8.17,85.84
+Vancouver,1,1,ROYAL FAMILY,Musicality,8.50,85.84
+Vancouver,1,1,ROYAL FAMILY,Projection/Communication,9.00,85.84
+Vancouver,1,1,ROYAL FAMILY,Spacing,9.00,85.84
+Vancouver,1,1,ROYAL FAMILY,Staging,8.33,85.84
+Vancouver,1,1,ROYAL FAMILY,Stamina,9.67,85.84
+Vancouver,1,1,ROYAL FAMILY,Stylistic Athleticism,7.50,85.84
+Vancouver,1,1,ROYAL FAMILY,Technical Execution + Authenticity,8.50,85.84
+Vancouver,1,2,JAM REPUBLIC,Choreography Complexity,8.67,88.35
+Vancouver,1,2,JAM REPUBLIC,Cleanliness,9.00,88.35
+Vancouver,1,2,JAM REPUBLIC,Creativity,8.50,88.35
+Vancouver,1,2,JAM REPUBLIC,Musicality,8.67,88.35
+Vancouver,1,2,JAM REPUBLIC,Projection/Communication,9.50,88.35
+Vancouver,1,2,JAM REPUBLIC,Spacing,8.67,88.35
+Vancouver,1,2,JAM REPUBLIC,Staging,8.33,88.35
+Vancouver,1,2,JAM REPUBLIC,Stamina,9.67,88.35
+Vancouver,1,2,JAM REPUBLIC,Stylistic Athleticism,8.67,88.35
+Vancouver,1,2,JAM REPUBLIC,Technical Execution + Authenticity,8.67,88.35
+Vancouver,1,2,QUICK STYLE,Choreography Complexity,8.33,84.00
+Vancouver,1,2,QUICK STYLE,Cleanliness,8.50,84.00
+Vancouver,1,2,QUICK STYLE,Creativity,8.17,84.00
+Vancouver,1,2,QUICK STYLE,Musicality,8.67,84.00
+Vancouver,1,2,QUICK STYLE,Projection/Communication,8.67,84.00
+Vancouver,1,2,QUICK STYLE,Spacing,8.50,84.00
+Vancouver,1,2,QUICK STYLE,Staging,7.67,84.00
+Vancouver,1,2,QUICK STYLE,Stamina,9.33,84.00
+Vancouver,1,2,QUICK STYLE,Stylistic Athleticism,7.83,84.00
+Vancouver,1,2,QUICK STYLE,Technical Execution + Authenticity,8.33,84.00
+Vancouver,1,3,BROTHERHOOD,Choreography Complexity,8.83,93.16
+Vancouver,1,3,BROTHERHOOD,Cleanliness,9.67,93.16
+Vancouver,1,3,BROTHERHOOD,Creativity,9.33,93.16
+Vancouver,1,3,BROTHERHOOD,Musicality,9.33,93.16
+Vancouver,1,3,BROTHERHOOD,Projection/Communication,10.00,93.16
+Vancouver,1,3,BROTHERHOOD,Spacing,8.83,93.16
+Vancouver,1,3,BROTHERHOOD,Staging,8.67,93.16
+Vancouver,1,3,BROTHERHOOD,Stamina,10.00,93.16
+Vancouver,1,3,BROTHERHOOD,Stylistic Athleticism,9.00,93.16
+Vancouver,1,3,BROTHERHOOD,Technical Execution + Authenticity,9.50,93.16
+Vancouver,1,3,GRV,Choreography Complexity,8.50,90.17
+Vancouver,1,3,GRV,Cleanliness,8.67,90.17
+Vancouver,1,3,GRV,Creativity,9.67,90.17
+Vancouver,1,3,GRV,Musicality,8.50,90.17
+Vancouver,1,3,GRV,Projection/Communication,9.50,90.17
+Vancouver,1,3,GRV,Spacing,8.67,90.17
+Vancouver,1,3,GRV,Staging,9.00,90.17
+Vancouver,1,3,GRV,Stamina,9.83,90.17
+Vancouver,1,3,GRV,Stylistic Athleticism,9.00,90.17
+Vancouver,1,3,GRV,Technical Execution + Authenticity,8.83,90.17
+Vancouver,2,1,1MILLION,Choreography Complexity,8.00,85.50
+Vancouver,2,1,1MILLION,Cleanliness,8.50,85.50
+Vancouver,2,1,1MILLION,Creativity,8.33,85.50
+Vancouver,2,1,1MILLION,Musicality,8.50,85.50
+Vancouver,2,1,1MILLION,Projection/Communication,9.00,85.50
+Vancouver,2,1,1MILLION,Spacing,8.50,85.50
+Vancouver,2,1,1MILLION,Staging,8.50,85.50
+Vancouver,2,1,1MILLION,Stamina,9.50,85.50
+Vancouver,2,1,1MILLION,Stylistic Athleticism,8.00,85.50
+Vancouver,2,1,1MILLION,Technical Execution + Authenticity,8.67,85.50
+Vancouver,2,1,BROTHERHOOD,Choreography Complexity,9.33,92.99
+Vancouver,2,1,BROTHERHOOD,Cleanliness,9.50,92.99
+Vancouver,2,1,BROTHERHOOD,Creativity,9.50,92.99
+Vancouver,2,1,BROTHERHOOD,Musicality,9.50,92.99
+Vancouver,2,1,BROTHERHOOD,Projection/Communication,9.67,92.99
+Vancouver,2,1,BROTHERHOOD,Spacing,8.50,92.99
+Vancouver,2,1,BROTHERHOOD,Staging,8.83,92.99
+Vancouver,2,1,BROTHERHOOD,Stamina,9.83,92.99
+Vancouver,2,1,BROTHERHOOD,Stylistic Athleticism,9.00,92.99
+Vancouver,2,1,BROTHERHOOD,Technical Execution + Authenticity,9.33,92.99
+Vancouver,2,1,JAM REPUBLIC,Choreography Complexity,7.67,86.17
+Vancouver,2,1,JAM REPUBLIC,Cleanliness,8.83,86.17
+Vancouver,2,1,JAM REPUBLIC,Creativity,8.50,86.17
+Vancouver,2,1,JAM REPUBLIC,Musicality,9.17,86.17
+Vancouver,2,1,JAM REPUBLIC,Projection/Communication,9.17,86.17
+Vancouver,2,1,JAM REPUBLIC,Spacing,8.50,86.17
+Vancouver,2,1,JAM REPUBLIC,Staging,8.33,86.17
+Vancouver,2,1,JAM REPUBLIC,Stamina,9.50,86.17
+Vancouver,2,1,JAM REPUBLIC,Stylistic Athleticism,7.83,86.17
+Vancouver,2,1,JAM REPUBLIC,Technical Execution + Authenticity,8.67,86.17
